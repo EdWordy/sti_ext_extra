@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "stag.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#BW_32_Iso-Tile": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "stag.tmx": {
+            "scale": 1.0195121951219512,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 327.60765550239233,
+                "y": 84.35406698564594
+            }
+        },
+        "stag.tmx#BW_32_Iso-Tile": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "E:/sti_ext_extra",
+    "last.imagePath": "E:/sti_ext_extra/images",
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": "3",
+    "map.tileHeight": 16,
+    "map.width": 20,
+    "openFiles": [
+        "stag.tmx"
+    ],
+    "project": "stag_map.tiled-project",
+    "recentFiles": [
+        "stag.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 32
+    }
+}
